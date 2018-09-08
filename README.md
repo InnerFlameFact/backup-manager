@@ -86,6 +86,13 @@ It's stable enough, you'll need to understand permissions.
     'bucket' => '',
     'root'   => '',
 ],
+'b2' => [
+    'type' => 'B2',
+    'key'    => '',
+    'accountId' => '',
+    'bucket' => '',
+    'root'   => '',
+],
 'gcs' => [
     'type' => 'Gcs',
     'key'    => '',
