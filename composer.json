@@ -26,6 +26,7 @@
     "srmklive/flysystem-dropbox-v2": "~1.0",
     "league/flysystem-rackspace": "~1.0",
     "league/flysystem-sftp": "~1.0",
+    "mhetreramesh/flysystem-backblaze" : "~1.0",
     "dropbox/dropbox-sdk": "~1.1",
     "aws/aws-sdk-php": "~3.0",
     "phpspec/phpspec": "~2.1"
